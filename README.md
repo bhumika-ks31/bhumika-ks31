@@ -3,6 +3,14 @@
 <p align="center">✨ First-year BTech student | Aspiring Full Stack Developer | Open Source Enthusiast ✨</p>
 
 ---
+Technical Focused Style:
+
+Open Source Contributor | BTech'28
+First contribution to SugarLabs (MusicBlocks): improved interface.js modularity and UI management. Strong in JavaScript, Frontend Development, and diving deep into Blockchain and Web3 technologies.Technical Focused Style:
+
+Short and Powerful Style:
+
+Open Source Contributor (SugarLabs - MusicBlocks) | BTech Student | JavaScript & Blockchain Learner | Building with passion, learning every day.
 
 ### 🌱 About Me
 
