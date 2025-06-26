@@ -1,63 +1,71 @@
-
-<h1 align="center">Hi there, I'm Bhumika Kashyap!</h1>
-<p align="center">✨ First-year BTech student | Aspiring Full Stack Developer | Open Source Enthusiast ✨</p>
+<h1 align="center">Hi there, I'm Bhumika Kashyap 👋</h1>
+<p align="center">💻 First-Year BTech | Full Stack Developer | Java & DSA Learner | Open Source Enthusiast</p>
 
 ---
-Technical Focused Style:
 
-Open Source Contributor | BTech'28
-First contribution to SugarLabs (MusicBlocks): improved interface.js modularity and UI management. Strong in JavaScript, Frontend Development, and diving deep into Blockchain and Web3 technologies.Technical Focused Style:
+### 🚀 Featured Projects
 
-Short and Powerful Style:
+| Project Name | Description | Stack |
+|--------------|-------------|-------|
+| 🛍️ **BotCart AI** | A real-time shopping assistant chatbot with smart replies | React, Express, OpenAI, CSS |
+| 💬 **AlphaPing** | A futuristic messaging app with auto-replies & glowing XP UI | Vite, XMTP, Tailwind, Framer Motion |
+| 💳 **CDP Wallet Agent** | A monetized AI agent with crypto milestone payouts using CDP Wallet | React, x402Pay, GPT-4, Express |
+| 🏠 **Airnib Clone** | A full-stack Airbnb-style booking app with authentication & maps | React, Node.js, MongoDB, Tailwind |
+| 📈 **Zerodha Lite** | A sleek stock trading frontend clone for Zerodha | React, Chart.js, CSS |
+| 🧠 **DSA Tracker** | A daily coding streak tracker to log DSA practice | React, Express, MongoDB |
 
-Open Source Contributor (SugarLabs - MusicBlocks) | BTech Student | JavaScript & Blockchain Learner | Building with passion, learning every day.
+---
 
-### 🌱 About Me
-
-- I'm currently in my **1st year of BTech**, exploring the world of development and tech.
-- Passionate about **web development**, both frontend and backend.
-- Currently contributing to **Open Source (Code4GovTech 2025)**.
-- Love solving problems and building real-world projects.
+### 🌱 Currently Learning
+- ✅ Java + DSA (Leetcode, sorting, recursion, trees)
+- ✅ Full Stack: React, Node.js, MongoDB
+- ✅ Version Control: Git & GitHub
+- 🔄 Exploring Blockchain + Web3 (CDP, Solidity)
 
 ---
 
 ### 🛠️ Tech Stack
 
-- **Frontend**: HTML, CSS, JavaScript  
-- **Backend**: Node.js, Express.js  
-- **Database**: MongoDB, SQL  
-- **Languages**: C (currently learning)
+**Languages:**  
+![C](https://img.shields.io/badge/C-blue?style=flat&logo=c)  
+![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=openjdk)  
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)
+
+**Frontend:**  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)  
+![HTML](https://img.shields.io/badge/HTML5-red?style=flat&logo=html5)  
+![CSS](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3)  
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwind-css)
+
+**Backend & DB:**  
+![Node.js](https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js)  
+![Express](https://img.shields.io/badge/Express-black?style=flat&logo=express)  
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat&logo=mongodb)  
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql)
+
+**Tools:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)  
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel)  
+![Render](https://img.shields.io/badge/Render-blue?style=flat&logo=render)
 
 ---
 
-### 🚀 Projects
+### 📊 GitHub Stats
 
-- **Spotify Replica**: A music player UI built using HTML, CSS, and JavaScript.  
-- **To-Do List App**: Task management app with CRUD functionality using frontend & backend.  
-- **Airnib Travel Website** *(in progress)*: A full-stack travel platform inspired by Airbnb.  
-- **Photography Webpage**: A simple static portfolio for a photography enthusiast.  
-- **Simon Game**: Fun memory-based game built using JavaScript.
-
----
-
-### 💡 Currently Learning
-
-- Full Stack Development  
-- MongoDB & Express deeper  
-- Basics of C Language  
-- Blockchain & Solidity (side exploration)
-
----
-
-### 📫 Connect With me 
-github :https://github.com/bhumika-ks31
-- Email:  Tilantajagra@gmail.com
-
-- ⚡ Fun fact **I think i am leaner**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhumika-ks31&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=bhumika-ks31&theme=tokyonight" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+---
+
+### 📫 Let’s Connect
+
+- 🔗 GitHub: [bhumika-ks31](https://github.com/bhumika-ks31)  
+- 📧 Email: [tilantajagra@gmail.com](mailto:tilantajagra@gmail.com)
+
+---
+
+> ⚡ Fun fact: I don't just learn — I **build** while learning.
+
