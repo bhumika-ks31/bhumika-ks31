@@ -52,7 +52,7 @@
 
 - 🔗 GitHub: [bhumika-ks31](https://github.com/bhumika-ks31)  
 - 🔗 LinkedIn: [Bhumika Kashyap](https://www.linkedin.com/in/bhumika-kashyap-526330342)  
-- 📧 Email: [tilantajagra@gmail.com](mailto:kashyapbhumika31@gmail.com)  
+- 📧 Email: [kashyapbhumika31@gmail.com](mailto:kashyapbhumika31@gmail.com)  
 
 ---
 
