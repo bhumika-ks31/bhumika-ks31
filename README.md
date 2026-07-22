@@ -1,142 +1,93 @@
+````markdown
 <div align="center">
 
 # Bhumika Kashyap
 
-### Full Stack Developer • Java Developer • Open Source Contributor
+### Full Stack Developer • Java Developer • MERN Stack
 
-Building scalable web applications with the MERN stack while mastering Data Structures & Algorithms in Java.
+Building modern web applications with a focus on clean code, performance, and continuous learning.
 
-[Portfolio](#) • [LinkedIn](https://www.linkedin.com/in/bhumika-kashyap-636786321/) • [GitHub](https://github.com/bhumika-ks31) • <a href="mailto:kashyapbhumika31@gmail.com">Email</a>
+[LinkedIn](https://www.linkedin.com/in/bhumika-kashyap-636786321/) •
+[GitHub](https://github.com/bhumika-ks31) •
+<a href="mailto:kashyapbhumika31@gmail.com">Email</a>
 
 </div>
 
 ---
 
-## About
+## /about
 
-I'm a third-year B.Tech student passionate about building products that solve real-world problems.
+I'm a third-year B.Tech student who enjoys turning ideas into real-world applications.
 
-My primary focus is Full Stack Development using the MERN stack, while continuously strengthening my foundation in Java, Data Structures & Algorithms, and Backend Development. I'm also exploring Blockchain, Web3, and modern software architecture.
+My current journey revolves around building full stack applications with the MERN stack while strengthening my understanding of Java, Data Structures & Algorithms, and backend development.
 
----
-
-## Current Focus
-
-- Building production-ready MERN applications
-- Solving DSA in Java
-- Learning scalable backend architecture
-- Exploring Blockchain & Smart Contracts
-- Contributing to Open Source
+Outside of coding, I enjoy exploring modern technologies and continuously improving my development workflow.
 
 ---
 
-## Featured Projects
+## /currently
 
-### 💬 Chat Application
-Real-time messaging platform with authentication, online status, and responsive UI.
-
-**Tech Stack**
-
-`React` `Node.js` `Express` `MongoDB` `Socket.io`
-
-**Repository:** *(Add Link)*
+- Building full-stack web applications
+- Practicing Java & Data Structures
+- Learning backend architecture
+- Exploring Blockchain & Web3
 
 ---
 
-### 🛒 Ecommerce Platform
+## /tech
 
-Complete shopping application with authentication, admin dashboard, payments, and order management.
+```txt
+Languages
+Java • JavaScript • C
 
-**Tech Stack**
+Frontend
+React • HTML • CSS • Tailwind CSS
 
-`React` `Node.js` `MongoDB`
+Backend
+Node.js • Express.js
 
-**Repository:** *(Add Link)*
+Database
+MongoDB • MySQL
 
----
-
-### 📚 Learning Management System
-
-Modern learning platform with authentication, course management, and dashboard.
-
-**Tech Stack**
-
-`React` `Express` `MongoDB`
-
-**Repository:** *(Add Link)*
-
----
-
-## Tech Stack
-
-### Languages
+Tools
+Git • GitHub • VS Code • Postman • Vercel • Render
+```
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,c" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render" />
+<img src="https://skillicons.dev/icons?i=java,js,c,react,html,css,tailwind,nodejs,express,mongodb,mysql,git,github,vscode,postman,vercel,render" />
 </p>
 
 ---
 
-## GitHub Analytics
+## /github
 
-<p align="center">
+<div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bhumika-ks31&show_icons=true&hide_border=true&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bhumika-ks31&show_icons=true&hide_border=true&rank_icon=github&theme=transparent"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhumika-ks31&layout=compact&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhumika-ks31&layout=compact&hide_border=true&theme=transparent"/>
 
-</p>
+</div>
 
-<p align="center">
+<div align="center">
 
-<img width="98%" src="https://streak-stats.demolab.com?user=bhumika-ks31&hide_border=true"/>
+<img width="100%" src="https://streak-stats.demolab.com?user=bhumika-ks31&hide_border=true"/>
 
-</p>
-
----
-
-## Open Source
-
-I'm actively looking to contribute to impactful open-source projects and collaborate with developers building meaningful software.
-
-If you're working on something interesting, I'd love to contribute.
+</div>
 
 ---
 
-## Let's Connect
+## /connect
 
-<p align="left">
-
-<a href="https://github.com/bhumika-ks31">GitHub</a><br>
-
-<a href="https://www.linkedin.com/in/bhumika-kashyap-636786321/">LinkedIn</a><br>
-
-<a href="mailto:kashyapbhumika31@gmail.com">kashyapbhumika31@gmail.com</a>
-
-</p>
+- LinkedIn → https://www.linkedin.com/in/bhumika-kashyap-636786321/
+- GitHub → https://github.com/bhumika-ks31
+- Email → kashyapbhumika31@gmail.com
 
 ---
 
 <div align="center">
 
-*"Building software with clean code, continuous learning, and curiosity."*
+**Thanks for stopping by.**
 
 </div>
+````
