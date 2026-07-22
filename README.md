@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./ChatGPT%20Image%20Jul%2022,%202026,%2012_33_25%20PM.png" width="100%" />
+</p>
+
+
 <div align="center">
 
 # Bhumika Kashyap
