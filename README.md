@@ -71,17 +71,8 @@ Building scalable web applications, solving DSA problems, and exploring Blockcha
 - 🤝 Contributing to Open Source
 
 ---
+## 📫 Connect With Me
 
-## 🤝 Connect With Me
-
-<p align="left">
-<a href="https://github.com/bhumika-ks31"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
-<a href="https://www.linkedin.com/in/bhumika-kashyap-526330342"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-<a href="mailto:kashyapbhumika31@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/></a>
-</p>
-
----
-
-<p align="center">
-✨ <i>"Code. Learn. Build. Repeat."</i> ✨
-</p>
+- 💼 LinkedIn: https://www.linkedin.com/in/bhumika-kashyap-636786321/
+- 💻 GitHub: https://github.com/bhumika-ks31
+- 📧 Email: kashyapbhumika31@gmail.com
