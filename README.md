@@ -1,93 +1,66 @@
-````markdown
 <div align="center">
 
 # Bhumika Kashyap
 
-### Full Stack Developer • Java Developer • MERN Stack
+### Software Engineer • Full Stack Developer
 
-Building modern web applications with a focus on clean code, performance, and continuous learning.
+Building scalable web applications with modern web technologies.
 
-[LinkedIn](https://www.linkedin.com/in/bhumika-kashyap-636786321/) •
-[GitHub](https://github.com/bhumika-ks31) •
+<p>
+<a href="https://github.com/bhumika-ks31">GitHub</a> •
+<a href="https://www.linkedin.com/in/bhumika-kashyap-636786321/">LinkedIn</a> •
 <a href="mailto:kashyapbhumika31@gmail.com">Email</a>
+</p>
 
 </div>
 
 ---
 
-## /about
+## About
 
-I'm a third-year B.Tech student who enjoys turning ideas into real-world applications.
+I'm a third-year B.Tech student passionate about software engineering, backend development, and building products that solve real-world problems.
 
-My current journey revolves around building full stack applications with the MERN stack while strengthening my understanding of Java, Data Structures & Algorithms, and backend development.
-
-Outside of coding, I enjoy exploring modern technologies and continuously improving my development workflow.
+Currently focused on Full Stack Development, Java, Data Structures & Algorithms, and modern backend technologies.
 
 ---
 
-## /currently
+## Tech Stack
 
-- Building full-stack web applications
-- Practicing Java & Data Structures
-- Learning backend architecture
-- Exploring Blockchain & Web3
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=java,js,c,react,nodejs,express,mongodb,mysql,tailwind,git,github,vscode,postman,vercel"/>
 
-## /tech
-
-```txt
-Languages
-Java • JavaScript • C
-
-Frontend
-React • HTML • CSS • Tailwind CSS
-
-Backend
-Node.js • Express.js
-
-Database
-MongoDB • MySQL
-
-Tools
-Git • GitHub • VS Code • Postman • Vercel • Render
-```
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,js,c,react,html,css,tailwind,nodejs,express,mongodb,mysql,git,github,vscode,postman,vercel,render" />
 </p>
 
 ---
 
-## /github
+## Currently
 
-<div align="center">
+- Building MERN applications
+- Practicing Java & DSA
+- Learning Backend & System Design
+- Exploring Blockchain & Web3
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bhumika-ks31&show_icons=true&hide_border=true&rank_icon=github&theme=transparent"/>
+---
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhumika-ks31&layout=compact&hide_border=true&theme=transparent"/>
+## GitHub Analytics
 
-</div>
+<p align="center">
 
-<div align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=bhumika-ks31&show_icons=true&hide_border=true&theme=transparent"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhumika-ks31&layout=compact&hide_border=true&theme=transparent"/>
+
+<br><br>
 
 <img width="100%" src="https://streak-stats.demolab.com?user=bhumika-ks31&hide_border=true"/>
 
-</div>
-
----
-
-## /connect
-
-- LinkedIn → https://www.linkedin.com/in/bhumika-kashyap-636786321/
-- GitHub → https://github.com/bhumika-ks31
-- Email → kashyapbhumika31@gmail.com
+</p>
 
 ---
 
 <div align="center">
 
-**Thanks for stopping by.**
+**Always learning. Always building.**
 
 </div>
-````
