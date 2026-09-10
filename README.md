@@ -19,7 +19,7 @@ Building scalable web applications with modern web technologies.
 
 </div>
 
----
+
 
 ## About
 
